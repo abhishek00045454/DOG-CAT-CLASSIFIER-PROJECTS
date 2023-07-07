@@ -123,7 +123,9 @@ celerybeat.pid
 .env
 .chicken
 .venv
+.dj
 .cat
+dj/
 cat/
 env/
 chicken/
